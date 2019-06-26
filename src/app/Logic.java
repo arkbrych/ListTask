@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * @author Arkadiusz
- * class is adding number using recursion
+ * class is adding numbers using recursion
  */
 public class Logic {
     public static void main(String[] args) {
